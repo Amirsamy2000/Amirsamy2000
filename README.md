@@ -21,41 +21,6 @@ Passionate about high-performance, maintainable, and business-critical systems.
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 🚀 Featured Projects
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>🎯 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🍴 Forks</b></td>
-      <td><b>🐛 Issues</b></td>
-      <td><b>🔄 Pull Requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/YOUR_USERNAME/Transportation-Ride-Hailing-System"><b>Transportation & Ride-Hailing System</b></a><br>(Built from Scratch - Real-time GPS matching & lifecycle)</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/YOUR_USERNAME/Transportation-Ride-Hailing-System?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/YOUR_USERNAME/Transportation-Ride-Hailing-System?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/YOUR_USERNAME/Transportation-Ride-Hailing-System?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/YOUR_USERNAME/Transportation-Ride-Hailing-System?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/YOUR_USERNAME/E-Learning-Academy-Management"><b>E-Learning & Academy Management System</b></a><br>(Clean Arch + CQRS + Content Protection + SignalR)</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/YOUR_USERNAME/E-Learning-Academy-Management?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/YOUR_USERNAME/E-Learning-Academy-Management?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/YOUR_USERNAME/E-Learning-Academy-Management?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/YOUR_USERNAME/E-Learning-Academy-Management?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/YOUR_USERNAME/Scopos-ERP-Logistics"><b>Scopos ERP – Supply Chain & Logistics Module</b></a><br>(Real-time GPS tracking 50+ delegates + Financial Sync)</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/YOUR_USERNAME/Scopos-ERP-Logistics?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/YOUR_USERNAME/Scopos-ERP-Logistics?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/YOUR_USERNAME/Scopos-ERP-Logistics?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/YOUR_USERNAME/Scopos-ERP-Logistics?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
 
 ### 💼 Professional Experience
 **.NET Developer | TBI Company**  
@@ -79,26 +44,17 @@ Passionate about high-performance, maintainable, and business-critical systems.
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><a href="https://github.com/YOUR_USERNAME/Transportation-Ride-Hailing-System"><b>Transportation & Ride-Hailing System</b></a><br>(Built from Scratch - Real-time GPS matching & lifecycle)</td>
+  <tr>
+      <td><a href="https://github.com/YOUR_USERNAME/Transportation-Ride-Hailing-System"><b>Transportation & Ride-Hailing</b></a><br>Real-time GPS matching & SignalR trip lifecycle. (Open Source)</td>
       <td><img src="https://img.shields.io/github/stars/YOUR_USERNAME/Transportation-Ride-Hailing-System?style=flat-square" /></td>
       <td><img src="https://img.shields.io/github/forks/YOUR_USERNAME/Transportation-Ride-Hailing-System?style=flat-square" /></td>
-      <td><img src="https://img.shields.io/github/issues/YOUR_USERNAME/Transportation-Ride-Hailing-System?style=flat-square" /></td>
       <td><img src="https://img.shields.io/github/issues-pr/YOUR_USERNAME/Transportation-Ride-Hailing-System?style=flat-square" /></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/YOUR_USERNAME/E-Learning-Academy-Management"><b>E-Learning & Academy Management System</b></a><br>(Clean Arch + CQRS + Content Protection + SignalR)</td>
+      <td><a href="https://github.com/YOUR_USERNAME/E-Learning-Academy-Management"><b>E-Learning System</b></a><br>Clean Arch + CQRS + Protected Streaming. (Open Source)</td>
       <td><img src="https://img.shields.io/github/stars/YOUR_USERNAME/E-Learning-Academy-Management?style=flat-square" /></td>
       <td><img src="https://img.shields.io/github/forks/YOUR_USERNAME/E-Learning-Academy-Management?style=flat-square" /></td>
-      <td><img src="https://img.shields.io/github/issues/YOUR_USERNAME/E-Learning-Academy-Management?style=flat-square" /></td>
       <td><img src="https://img.shields.io/github/issues-pr/YOUR_USERNAME/E-Learning-Academy-Management?style=flat-square" /></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/YOUR_USERNAME/Scopos-ERP-Logistics"><b>Scopos ERP – Supply Chain & Logistics</b></a><br>(Real-time GPS 50+ delegates + Financial Sync)</td>
-      <td><img src="https://img.shields.io/github/stars/YOUR_USERNAME/Scopos-ERP-Logistics?style=flat-square" /></td>
-      <td><img src="https://img.shields.io/github/forks/YOUR_USERNAME/Scopos-ERP-Logistics?style=flat-square" /></td>
-      <td><img src="https://img.shields.io/github/issues/YOUR_USERNAME/Scopos-ERP-Logistics?style=flat-square" /></td>
-      <td><img src="https://img.shields.io/github/issues-pr/YOUR_USERNAME/Scopos-ERP-Logistics?style=flat-square" /></td>
     </tr>
   </tbody>
 </table>
