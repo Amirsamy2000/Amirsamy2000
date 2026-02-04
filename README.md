@@ -59,10 +59,49 @@ Passionate about high-performance, maintainable, and business-critical systems.
 
 ### 💼 Professional Experience
 **.NET Developer | TBI Company**  
-**Aug 2024 – Present | Sheikh Zayed, Egypt**  
-- Engineered ERP & E-Invoicing solutions (Scopos & UNO) with Clean Architecture & Dapper  
-- Optimized bulk financial processing & T-SQL tuning for thousands of daily records  
-- Built automated CRM API sync (Microsoft Dynamics) & geospatial dashboards with Leaflet.js  
+**Aug 2024 – Present | Sheikh Zayed, Egypt**
+
+- Engineered and enhanced enterprise ERP & E-Invoicing solutions (Scopos & UNO) using ASP.NET Core, Clean Architecture, and Dapper, delivering modular, high-performance systems for factories, trading companies, and financial compliance.
+- Optimized high-volume financial & invoice processing by implementing bulk insert operations, T-SQL stored procedure tuning, and validation workflows, significantly improving performance for thousands of daily transactions and ensuring E-Invoicing compliance.
+- Designed automated background services and hourly Task Scheduler jobs to synchronize real-time invoice data (headers + details) from Microsoft Dynamics CRM APIs, achieving seamless integration and up-to-date financial consistency.
+- Developed advanced analytics dashboards for invoice status tracking (Pending/Valid/Submitted/Invalid), VAT & annual vendor reporting with Excel export (EPPlus), plus real-time geospatial monitoring of 50+ sales delegates using Leaflet.js (live GPS tracking, route compliance, stop-duration analytics).
+- Managed complete application lifecycle — from development and deployment to hosting/maintenance on IIS and SmarterASP.net cloud platforms — while providing production support and continuous enhancements for stability and scalability.
+
+### 🚀 Featured Projects
+<table align="center">
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>⭐ Stars</th>
+      <th>🍴 Forks</th>
+      <th>🐛 Issues</th>
+      <th>🔄 PRs</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/YOUR_USERNAME/Transportation-Ride-Hailing-System"><b>Transportation & Ride-Hailing System</b></a><br>(Built from Scratch - Real-time GPS matching & lifecycle)</td>
+      <td><img src="https://img.shields.io/github/stars/YOUR_USERNAME/Transportation-Ride-Hailing-System?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/github/forks/YOUR_USERNAME/Transportation-Ride-Hailing-System?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/github/issues/YOUR_USERNAME/Transportation-Ride-Hailing-System?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/github/issues-pr/YOUR_USERNAME/Transportation-Ride-Hailing-System?style=flat-square" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/YOUR_USERNAME/E-Learning-Academy-Management"><b>E-Learning & Academy Management System</b></a><br>(Clean Arch + CQRS + Content Protection + SignalR)</td>
+      <td><img src="https://img.shields.io/github/stars/YOUR_USERNAME/E-Learning-Academy-Management?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/github/forks/YOUR_USERNAME/E-Learning-Academy-Management?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/github/issues/YOUR_USERNAME/E-Learning-Academy-Management?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/github/issues-pr/YOUR_USERNAME/E-Learning-Academy-Management?style=flat-square" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/YOUR_USERNAME/Scopos-ERP-Logistics"><b>Scopos ERP – Supply Chain & Logistics</b></a><br>(Real-time GPS 50+ delegates + Financial Sync)</td>
+      <td><img src="https://img.shields.io/github/stars/YOUR_USERNAME/Scopos-ERP-Logistics?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/github/forks/YOUR_USERNAME/Scopos-ERP-Logistics?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/github/issues/YOUR_USERNAME/Scopos-ERP-Logistics?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/github/issues-pr/YOUR_USERNAME/Scopos-ERP-Logistics?style=flat-square" /></td>
+    </tr>
+  </tbody>
+</table>
 
 ### 📫 Connect With Me
 <p align="center">
