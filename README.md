@@ -1,88 +1,47 @@
-## Hi there 👋
-# Enterprise ERP & E-Invoicing System
+# Hi there, I'm Amir Samy! 👋
 
-A scalable, enterprise-grade ERP system designed to manage core business operations including
-suppliers, customers, inventory, sales, purchasing, financial transactions, and electronic invoicing.
-Built with a strong focus on performance, maintainability, and real-world business workflows.
+### 🚀 Software Engineer | .NET Specialist
+I am a results-driven **Software Engineer** with 1.5+ years of experience building scalable **.NET Core** enterprise solutions. I specialize in **ERP systems**, **E-Invoicing platforms**, and **real-time applications** with a strong focus on **Clean Architecture** and **Performance Optimization**.
 
 ---
 
-## 🚀 Key Features
+### 🛠️ Tech Stack
 
-### 🔐 Authentication & Authorization
-- Secure authentication using **ASP.NET Identity** and **JWT**
-- Role-Based Access Control (RBAC) with dynamic permissions
-- Multi-level approval workflows for sensitive operations
-
-### 📦 ERP Core Modules
-- Master data management (Products, Categories, Customers, Suppliers)
-- Purchasing & supplier invoices with automatic inventory synchronization
-- Sales invoices with discount handling and validation rules
-- Warehouse management (stock movement, transfers, returns)
-- Delegate & vehicle-based inventory tracking
-
-### 🧾 E-Invoicing
-- Electronic sales & purchase invoices management
-- Invoice validation and status tracking (Pending / Valid / Submitted / Invalid)
-- Manual correction flow for invalid invoices based on business rules
-- Bulk invoice & receipt processing for high-volume data
-
-### 📊 Reporting & Analytics
-- Financial reports (cash, revenues, expenses, VAT)
-- Annual vendor and customer summaries
-- Sales channel & delegate performance analytics
-- Export reports to **Excel** for auditing and decision-making
-
-### 📍 Real-Time & Automation
-- Real-time delegate tracking using **Leaflet.js** (GPS, routes, stop duration)
-- Background jobs & scheduled tasks for system automation
-- Hourly synchronization with **Microsoft Dynamics CRM APIs**
+- **Backend:** C#, ASP.NET Core (Web API & MVC), EF Core, Dapper, SignalR, MediatR, CQRS.
+- **Database:** SQL Server, T-SQL (Advanced Optimization), Bulk Operations.
+- **Frontend:** JavaScript, TypeScript, jQuery, Bootstrap, Leaflet.js (GIS), HTML5, CSS3.
+- **Architecture:** Clean Architecture, N-Tier, SOLID, Design Patterns, State Machines.
+- **Security & Tools:** JWT, RBAC, OTP, Git/GitHub, IIS, Task Scheduler, FastReport.
+- **Learning Now:** 🏗️ Angular (Full-Stack Development).
 
 ---
 
-## 🧠 System Architecture
+### 💼 Professional Experience
 
-- **Clean Architecture**
-- **CQRS + MediatR**
-- **Unit of Work & Repository Pattern**
-- Hybrid data access using **Entity Framework Core** and **Dapper**
-- Optimized T-SQL stored procedures for performance-critical operations
-
----
-
-## 🛠️ Tech Stack
-
-### Backend
-- ASP.NET Core (Web API / MVC)
-- C#
-- Entity Framework Core
-- Dapper
-- MediatR
-- SignalR
-
-### Database
-- SQL Server
-- T-SQL (Stored Procedures, Views, Performance Tuning)
-
-### Frontend
-- HTML5, CSS3, Bootstrap
-- JavaScript, jQuery, AJAX
-- Leaflet.js (Geospatial Maps)
-
-### Security & Automation
-- JWT Authentication
-- Role-Based Authorization
-- Background Jobs (Task Scheduler)
-
-### Tools & Deployment
-- Git & GitHub
-- IIS
-- SmarterASP.net
-- EPPlus (Excel Reports)
-- FastReport
+**Software Engineer at TBI Company** (08/2024 – Present)
+* [cite_start]Engineered scalable **ERP & E-Invoicing solutions** (Scopos & UNO)[cite: 167].
+* [cite_start]Optimized high-volume financial data processing (thousands of daily transactions)[cite: 168].
+* [cite_start]Architected background services for real-time data sync with **Microsoft Dynamics CRM APIs**[cite: 169].
+* [cite_start]Developed logistics dashboards with **Leaflet.js** for real-time tracking of 50+ sales delegates[cite: 170].
 
 ---
 
-## 📂 Project Structure
+### 🌟 Featured Projects
 
+#### 🚕 [Ride-Hailing System](Your-Link-Here)
+[cite_start]A full-featured platform managing complex trip lifecycles using **State Machines** and **SignalR** for real-time driver matching[cite: 174, 175].
 
+#### 🎓 [E-Learning Platform](Your-Link-Here)
+[cite_start]A high-performance academy management system built with **Clean Architecture** & **CQRS**, featuring **protected video streaming** to prevent IP leakage[cite: 183, 186].
+
+#### 📦 [Scopos ERP Module](Your-Link-Here)
+[cite_start]Comprehensive Supply Chain & Logistics module with real-time inventory synchronization and GPS tracking[cite: 179, 180].
+
+---
+
+### 📫 Connect with me:
+- [cite_start]📧 [Email me](mailto:amirsamy.azmy99@gmail.com) [cite: 159]
+- 💼 [LinkedIn](https://www.linkedin.com/in/amir-samy-a62865203/)
+- [cite_start]🌍 Cairo, Egypt [cite: 161]
+
+---
