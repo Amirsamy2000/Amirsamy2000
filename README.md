@@ -1,47 +1,87 @@
-# Hi there, I'm Amir Samy! 👋
+# Hello friend! 👋 Welcome to my page!
 
-### 🚀 Software Engineer | .NET Specialist
-I am a results-driven **Software Engineer** with 1.5+ years of experience building scalable **.NET Core** enterprise solutions. I specialize in **ERP systems**, **E-Invoicing platforms**, and **real-time applications** with a strong focus on **Clean Architecture** and **Performance Optimization**.
+[cite_start]I'm **Amir Samy Azmy**, a **Software Engineer** from <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> Cairo, Egypt, specializing in building scalable **.NET Core** enterprise solutions. [cite: 158, 162]
 
 ---
 
-### 🛠️ Tech Stack
+### 💻 About Me
+[cite_start]I have **1.5+ years of experience** developing complex systems including **ERP systems, E-Invoicing platforms, and real-time applications**.  [cite_start]My focus is on writing high-performance code using **Clean Architecture, CQRS, and MediatR**. [cite: 163] [cite_start]Currently, I am expanding my full-stack capabilities with **Angular**. [cite: 163]
 
-- **Backend:** C#, ASP.NET Core (Web API & MVC), EF Core, Dapper, SignalR, MediatR, CQRS.
-- **Database:** SQL Server, T-SQL (Advanced Optimization), Bulk Operations.
-- **Frontend:** JavaScript, TypeScript, jQuery, Bootstrap, Leaflet.js (GIS), HTML5, CSS3.
-- **Architecture:** Clean Architecture, N-Tier, SOLID, Design Patterns, State Machines.
-- **Security & Tools:** JWT, RBAC, OTP, Git/GitHub, IIS, Task Scheduler, FastReport.
-- **Learning Now:** 🏗️ Angular (Full-Stack Development).
+---
+
+### 🧠 Tech Stack
+<center>
+<img alt="dotnet" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG56bmR4bmR4bmR4bmR4bmR4bmR4bmR4bmR4bmR4bmR4bmR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpx5nK1D7vVu/giphy.gif" width="150" />
+</center>
+
+<p align="center">
+  <img alt=".NET" src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img alt="EF Core" src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="SignalR" src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="Dapper" src="https://img.shields.io/badge/Dapper-000000?style=for-the-badge&logo=nuget&logoColor=white" />
+  <img alt="Clean Architecture" src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge&logo=architecture&logoColor=white" />
+  <img alt="Leaflet.js" src="https://img.shields.io/badge/Leaflet.js-199903?style=for-the-badge&logo=leaflet&logoColor=white" />
+</p>
+
+---
+
+### 🧩 Featured Projects
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>🎁 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/YourUsername/Ride-Hailing"><b>Transportation & Ride-Hailing System</b></a><br>Full trip lifecycle with real-time GPS matching & SignalR. [cite: 174, 175]</td>
+      <td><img src="https://img.shields.io/github/stars/YourUsername/Ride-Hailing?style=flat-square&labelColor=343b41"/></td>
+      <td><img src="https://img.shields.io/github/forks/YourUsername/Ride-Hailing?style=flat-square&labelColor=343b41"/></td>
+      <td><img src="https://img.shields.io/github/issues/YourUsername/Ride-Hailing?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/YourUsername/E-Learning"><b>E-Learning & Academy Management</b></a><br>Clean Architecture & CQRS with protected video streaming. [cite: 185, 186]</td>
+      <td><img src="https://img.shields.io/github/stars/YourUsername/E-Learning?style=flat-square&labelColor=343b41"/></td>
+      <td><img src="https://img.shields.io/github/forks/YourUsername/E-Learning?style=flat-square&labelColor=343b41"/></td>
+      <td><img src="https://img.shields.io/github/issues/YourUsername/E-Learning?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ### 💼 Professional Experience
-
-**Software Engineer at TBI Company** (08/2024 – Present)
-* [cite_start]Engineered scalable **ERP & E-Invoicing solutions** (Scopos & UNO)[cite: 167].
-* [cite_start]Optimized high-volume financial data processing (thousands of daily transactions)[cite: 168].
-* [cite_start]Architected background services for real-time data sync with **Microsoft Dynamics CRM APIs**[cite: 169].
-* [cite_start]Developed logistics dashboards with **Leaflet.js** for real-time tracking of 50+ sales delegates[cite: 170].
+[cite_start]**Software Engineer at TBI Company** (08/2024 – Present) [cite: 165, 166]
+* [cite_start]Engineered scalable **ERP & E-Invoicing solutions** (Scopos & UNO). [cite: 167]
+* [cite_start]Optimized high-volume financial data (thousands of daily transactions). [cite: 168]
+* [cite_start]Integrated real-time data sync with **Microsoft Dynamics CRM APIs**. [cite: 169]
 
 ---
 
-### 🌟 Featured Projects
-
-#### 🚕 [Ride-Hailing System](Your-Link-Here)
-[cite_start]A full-featured platform managing complex trip lifecycles using **State Machines** and **SignalR** for real-time driver matching[cite: 174, 175].
-
-#### 🎓 [E-Learning Platform](Your-Link-Here)
-[cite_start]A high-performance academy management system built with **Clean Architecture** & **CQRS**, featuring **protected video streaming** to prevent IP leakage[cite: 183, 186].
-
-#### 📦 [Scopos ERP Module](Your-Link-Here)
-[cite_start]Comprehensive Supply Chain & Logistics module with real-time inventory synchronization and GPS tracking[cite: 179, 180].
+### 🎓 Education & Certificates
+* [cite_start]**Bachelor of Computer Science**, Beni Suef University (2019-2023) - **Grade: Excellent**. [cite: 197, 198, 199, 200]
+* [cite_start]**.NET Development Summer Training**, ITI - Minya. [cite: 201, 202]
 
 ---
 
-### 📫 Connect with me:
-- [cite_start]📧 [Email me](mailto:amirsamy.azmy99@gmail.com) [cite: 159]
-- 💼 [LinkedIn](https://www.linkedin.com/in/amir-samy-a62865203/)
-- [cite_start]🌍 Cairo, Egypt [cite: 161]
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://github.com/YourUsername" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:amirsamy.azmy99@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="Your-LinkedIn-URL" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
----
+<div align="center">
+  ✨ Thanks for visiting my profile! ✨
+</div>
