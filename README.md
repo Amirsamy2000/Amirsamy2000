@@ -31,43 +31,54 @@ Passionate about high-performance, maintainable, and business-critical systems.
 - Designed automated background services and hourly Task Scheduler jobs to synchronize real-time invoice data (headers + details) from Microsoft Dynamics CRM APIs, achieving seamless integration and up-to-date financial consistency.
 - Developed advanced analytics dashboards for invoice status tracking (Pending/Valid/Submitted/Invalid), VAT & annual vendor reporting with Excel export (EPPlus), plus real-time geospatial monitoring of 50+ sales delegates using Leaflet.js (live GPS tracking, route compliance, stop-duration analytics).
 - Managed complete application lifecycle — from development and deployment to hosting/maintenance on IIS and SmarterASP.net cloud platforms — while providing production support and continuous enhancements for stability and scalability.
-
-### 🚀 Featured Projects
-<table align="center">
-  <thead>
+### 🚀 Featured Projects & Systems
+<table>
+  <thead align="center">
     <tr>
-      <th>Project</th>
-      <th>⭐ Stars</th>
-      <th>🍴 Forks</th>
-      <th>🐛 Issues</th>
-      <th>🔄 PRs</th>
+      <td><b>🎯 System Name</b></td>
+      <td><b>🏗️ Core Architecture</b></td>
+      <td><b>💡 Key Contributions & Tech</b></td>
     </tr>
   </thead>
   <tbody>
-  <tr>
-      <td><a href="https://github.com/YOUR_USERNAME/Transportation-Ride-Hailing-System"><b>Transportation & Ride-Hailing</b></a><br>Real-time GPS matching & SignalR trip lifecycle. (Open Source)</td>
-      <td><img src="https://img.shields.io/github/stars/YOUR_USERNAME/Transportation-Ride-Hailing-System?style=flat-square" /></td>
-      <td><img src="https://img.shields.io/github/forks/YOUR_USERNAME/Transportation-Ride-Hailing-System?style=flat-square" /></td>
-      <td><img src="https://img.shields.io/github/issues-pr/YOUR_USERNAME/Transportation-Ride-Hailing-System?style=flat-square" /></td>
+    <tr>
+      <td><b>Scopos ERP – Logistics Module</b></td>
+      <td>N-Tier / Dapper</td>
+      <td>Real-time GPS tracking for 50+ delegates, <b>Microsoft Dynamics CRM</b> integration, and high-performance financial sync.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/YOUR_USERNAME/E-Learning-Academy-Management"><b>E-Learning System</b></a><br>Clean Arch + CQRS + Protected Streaming. (Open Source)</td>
-      <td><img src="https://img.shields.io/github/stars/YOUR_USERNAME/E-Learning-Academy-Management?style=flat-square" /></td>
-      <td><img src="https://img.shields.io/github/forks/YOUR_USERNAME/E-Learning-Academy-Management?style=flat-square" /></td>
-      <td><img src="https://img.shields.io/github/issues-pr/YOUR_USERNAME/E-Learning-Academy-Management?style=flat-square" /></td>
+      <td><b>Transportation & Ride-Hailing</b></td>
+      <td>Clean Architecture</td>
+      <td>Complex trip lifecycle management using <b>Finite State Machines</b> and real-time matching via <b>SignalR</b>.</td>
+    </tr>
+    <tr>
+      <td><b>E-Learning & Academy Platform</b></td>
+      <td>CQRS / MediatR</td>
+      <td><b>Protected video streaming</b> engine, automated enrollment workflows, and advanced reporting dashboards.</td>
+    </tr>
+    <tr>
+      <td><b>Milson Web System</b></td>
+      <td>MVC / EF Core</td>
+      <td>Custom <b>RBAC</b> system, Waiting List logic with age-compatibility checks, and a <b>"Hold & Resume"</b> subscription engine.</td>
+    </tr>
+    <tr>
+      <td><b>UNO E-Invoicing System</b></td>
+      <td>ASP.NET Core / SQL</td>
+      <td>Optimized for <b>thousands of daily transactions</b> with bulk operations and Egyptian E-Invoicing SDK integration.</td>
     </tr>
   </tbody>
 </table>
+
 
 ### 📫 Connect With Me
 <p align="center">
   <a href="mailto:amirsamy.azmy99@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/amir-samy-a62865203/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/Amirsamy2000" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
